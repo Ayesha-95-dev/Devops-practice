@@ -1,0 +1,3 @@
+./scripts/reserve.sh
+./scripts/deploy.sh
+./scripts/healthcheck.sh
